@@ -5,6 +5,7 @@ _a full-featured vpn, entirely free_
 1. Desktop
     1. Start with a website blocker
     2. Read the Wireguard whitepaper
+    fdsafdsafdsafdsafdadf
     3. Integrate Wireguard
 2. Mobile
 3. Web
